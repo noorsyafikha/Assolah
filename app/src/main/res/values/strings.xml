@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assolah</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="subuh">Subuh</string>
+    <string name="prayer_time">Prayer Time</string>
+    <string name="button">Button</string>
+    <string name="asar">Asar</string>
+    <string name="button1">Button</string>
+    <string name="assolah">Assolah</string>
+</resources>
